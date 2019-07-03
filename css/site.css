@@ -1,0 +1,159 @@
+body
+{
+    font-family: "Crimson Text",'Times New Roman', serif;
+    background-color: #F2FFFC;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.tittle
+{
+    margin: 0;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    background-color: #851944;
+    padding: 25px;
+    border-bottom: #000 solid 10px;
+    text-transform: uppercase;
+}
+
+h1,h2
+{
+    font-size: 30px;
+    font-family: 'Open Sans Condensed',Arial, Helvetica, sans-serif;
+    clear: both;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 95%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 20px;
+}
+.navigation
+{
+    background-color: #000;
+    color: #F2FFFC;
+    background-color: #3C1D3D;
+    padding: 20px;
+    text-transform: lowercase;
+    text-align: center;
+}
+nav a
+{
+    color: #F2FFFC;
+}
+main a
+{
+    font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+    color: #851944
+}
+aside a
+{
+    text-decoration: none;
+    font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+    color: inherit;
+    text-align: center;
+}
+
+#footer
+{
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+ul
+{
+    list-style-type: none;
+}
+h1{
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+em
+{
+    font-style: italic;
+}
+strong
+{
+    font-weight: bold;
+}
+li
+{
+    display: block;
+    padding-bottom: 15px;
+}
+
+article
+{
+    border-bottom: #ccc solid 1px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+.socialmedia li
+{
+    display: inline-block;
+}
+
+.socialmedia a
+{
+    width: 40px;
+    height: 40px;
+    display: block;
+    text-indent: -99999px;
+}
+.github
+{
+    background-image: url(../img/github.png);
+}
+.twitter
+{
+    background-image: url(../img/twitter.png);
+}
+.linkedin
+{
+    background-image: url(../img/linkedin.png);
+}
+main
+{
+    float: left;
+    width: 85%;
+    padding-bottom: 80px;
+}
+
+aside
+{
+    float: right;
+    clear: right;
+    width: 15%;
+    position: relative;
+    top: 310px;
+    box-sizing: border-box;
+    border-left: #000 solid 10px;
+    border-bottom: #000 solid 10px;
+}
+.photo
+{
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-left: #000 solid 10px;
+    border-bottom: #000 solid 10px;
+}
+.corpo
+{
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+}

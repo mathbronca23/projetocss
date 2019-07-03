@@ -1,0 +1,31 @@
+.reference-fiat
+{
+    box-sizing: border-box;
+    background-color: #D9E5E3;
+    padding: 16px;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    float: right;
+}
+.reference-petrobras
+{
+    box-sizing: border-box;
+    background-color: #D9E5E3;
+    padding: 16px;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    float:left;
+}
+.autor
+{
+    float: right;
+    font-style: italic;
+}
