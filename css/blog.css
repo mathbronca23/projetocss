@@ -1,24 +1,14 @@
-.readme
-{
-    font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    padding: 8px;
-    margin: 16x;
-    text-align: center;
+.leia-mais {
+    padding: 0.5em;
+    margin: 1em;
     display: block;
+    font-size: 1.25em;
+    text-align: center;
     background-color: #E6E7E8;
 }
-article footer
-{
-    font-style: italic;
-    font-family: inherit;
-    font-size: 75%;
-    color: inherit;
-    background-color: inherit;
-}
-time
-{
-    font-size: 90%;
-    font-weight: lighter;
-    font-family: "Open Sans Condensed", Arial, Helvetica, sans-serif;
+
+.post-blog {
+    padding-bottom: 2.5em;
+    border-bottom: 0.2 rem solid #ccc;
+    margin-bottom: 1.25em;
 }
